@@ -4,3 +4,4 @@
 3-listfiles displays current directory contents in a long format
 4-listmorefiles displays all current directory contents in a a long format
 5-listfilesdigitonly displays all current directory contents including user & group IDs in a long format
+6-firstdirectory creates my_first_directory in the /tmp directory
