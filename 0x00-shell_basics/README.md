@@ -17,3 +17,4 @@
 101-clean_emacs deletes all files in the current wd that end with the character ~
 102-tree creates the following directories: welcome/ welcome/to welcome/to/school in the current directory
 103-commas lists all the files and directories of the current directory in an alphabetical order, sorted by digits first and separated by commas
+school.mgc creates a magic file that can be used with the command file to detect School data files(which always contain the string SCHOOL at offset 0
