@@ -6,3 +6,4 @@
 5-listfilesdigitonly displays all current directory contents including user & group IDs in a long format
 6-firstdirectory creates my_first_directory in the /tmp directory
 7-movethatfile moves betty from /tmp to /tmp/my_first_directory
+8-firstdelete deletes betty
