@@ -12,3 +12,4 @@
 11-lists lists all files in the current directory and parent of the wd and the /boot directory in a long format
 12-file_type prints the type of file named iamafile in the /tmp directory
 13-symbolic_link creates a symbolic link __ls__ to /bin/ls
+14-copy_html copies all the HTML files that do not exist in the parent wd or were newer than the versions in the parent wd from the current wd to the parent of the wd
