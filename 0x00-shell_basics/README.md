@@ -9,3 +9,4 @@
 8-firstdelete deletes betty
 9-firstdirdeletion deletes my_first_directory in /tmp directory
 10-back changes the working directory to the previous one
+11-lists lists all files in the current directory and parent of the wd and the /boot directory in a long format
