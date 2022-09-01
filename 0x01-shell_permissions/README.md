@@ -13,3 +13,4 @@
 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory
 13-change_group changes group owner to school for the file hello
 100-change_owner_and_group changes the owner to vincent and the group owner to staff for all the files and directories in the wd
+101-symbolic_link_permissions changes the owner and the group owner of _hello to vincent and staff respectively, the file _hello is a symbolic link and is in the wd
