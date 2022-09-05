@@ -7,3 +7,4 @@
 6-third_line displays the third line of the iacta file
 7-file appends Best School to a file
 redirecting the ls command output to the ls_cwd_content file
+9-duplicate_last_line duplicates the last line of the iacta file
