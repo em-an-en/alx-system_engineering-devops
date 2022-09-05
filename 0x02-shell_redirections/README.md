@@ -11,3 +11,4 @@ redirecting the ls command output to the ls_cwd_content file
 10-no_more_ js deletes the js files in the current wd
 11-directories counts the number of directories not in the wd and parent of the wd
 12-newest_files displays the 10 newest files in the current wd
+13-unique prints only words that appear once
