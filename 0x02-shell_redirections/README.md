@@ -9,3 +9,4 @@
 redirecting the ls command output to the ls_cwd_content file
 9-duplicate_last_line duplicates the last line of the iacta file
 10-no_more_ js deletes the js files in the current wd
+11-directories counts the number of directories not in the wd and parent of the wd
