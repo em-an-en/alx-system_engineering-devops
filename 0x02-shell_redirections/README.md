@@ -8,3 +8,4 @@
 7-file appends Best School to a file
 redirecting the ls command output to the ls_cwd_content file
 9-duplicate_last_line duplicates the last line of the iacta file
+10-no_more_ js deletes the js files in the current wd
