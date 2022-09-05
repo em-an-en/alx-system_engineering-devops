@@ -15,3 +15,4 @@ redirecting the ls command output to the ls_cwd_content file
 14-findthatword displays lines that contain the pattern root in /etc/passwd
 15-findthatword counts lines that contain the pattern bin in /etc/passwd
 16-whatsnext displays 3 lines after the pattern root in /etc/passwd
+17-hidethisword displays all the lines that do not contain the pattern bin in /etc/passwd
