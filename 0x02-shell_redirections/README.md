@@ -6,3 +6,4 @@
 5-firstlines displays the first 10 lines of /etc/passwd
 6-third_line displays the third line of the iacta file
 7-file appends Best School to a file
+redirecting the ls command output to the ls_cwd_content file
