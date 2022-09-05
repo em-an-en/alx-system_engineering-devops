@@ -14,3 +14,4 @@ redirecting the ls command output to the ls_cwd_content file
 13-unique prints only words that appear once
 14-findthatword displays lines that contain the pattern root in /etc/passwd
 15-findthatword counts lines that contain the pattern bin in /etc/passwd
+16-whatsnext displays 3 lines after the pattern root in /etc/passwd
