@@ -20,3 +20,4 @@ redirecting the ls command output to the ls_cwd_content file
 19-AZ replaces characters
 20-hiago removes characters C and c respectively
 21-reverse reverses input
+22-users_and_homes displays all users and their home directories
