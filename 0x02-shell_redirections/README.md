@@ -24,3 +24,4 @@ redirecting the ls command output to the ls_cwd_content file
 100-casks displays the name of empty directories
 100-empty_casks displays the name of empty directories
 101-gifs done
+102-acrostic done
