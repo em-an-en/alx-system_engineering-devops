@@ -18,3 +18,4 @@ redirecting the ls command output to the ls_cwd_content file
 17-hidethisword displays all the lines that do not contain the pattern bin in /etc/passwd
 18-letteronly displays lines that starts with a letter in the /etc/ssh/sshd_config
 19-AZ replaces characters
+20-hiago removes characters C and c respectively
