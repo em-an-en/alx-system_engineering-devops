@@ -19,3 +19,4 @@ redirecting the ls command output to the ls_cwd_content file
 18-letteronly displays lines that starts with a letter in the /etc/ssh/sshd_config
 19-AZ replaces characters
 20-hiago removes characters C and c respectively
+21-reverse reverses input
