@@ -9,3 +9,4 @@
 8-true_knowledge prints the arithmetic output
 9-divide_and_rule prints the output of division o two environment variabof two environment varaiables
 10-love_exponent_breath displays the power output of two global variables
+11-binary_to_decimal coverts binary to decimal
