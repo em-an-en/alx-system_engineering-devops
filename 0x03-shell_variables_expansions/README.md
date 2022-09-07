@@ -5,3 +5,4 @@
 4-global_variables prints list of environment variables
 5-local_variables prints the local and global variables and their functions
 6-create_local_variable creates a new local variable
+7-create_global_variable creates a new global variable
