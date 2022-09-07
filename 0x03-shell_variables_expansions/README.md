@@ -7,3 +7,4 @@
 6-create_local_variable creates a new local variable
 7-create_global_variable creates a new global variable
 8-true_knowledge prints the arithmetic output
+9-divide_and_rule prints the output of division o two environment variabof two environment varaiables
